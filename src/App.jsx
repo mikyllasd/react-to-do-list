@@ -9,7 +9,7 @@ const paragraphs = [
   "When I tell you the things that bother me, it’s never because I want to fight with you. I just don’t want to keep things inside until they become something that makes us lose each other. And I hope you’ll always feel safe enough to tell me the things that bother you too.",
   "I’m so proud of you, baby, and I’ll always pray for your happiness, your dreams, and for God to guide you in everything you do.",
   "Thank you for staying, for loving me, and for being patient with me.",
-  "Baby, I want more days with you. More calls, more “I love yous,” more “Goodnight, my baby,” more “Take care, baby,” more “Good luck, baby,” and more of those little things we say to each other.",
+  "Baby, I want more days with you. More calls, more “I love yous,” more “Goodnight, my baby,” more “Take care, baby,” more “Have fun, baby,” more “Good luck, baby,” and more of those little things we say to each other.",
   "I want more of us, baby.",
   "I love you sooooo soooo very so muchhh very much so muchhh sooooooooooooooooooo veryyyy veryyyyyy sooo muchhhhh babyyy.",
   "- MIK ",
