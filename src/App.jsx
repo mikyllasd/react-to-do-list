@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from "react";
 import "./App.css";
 
 const paragraphs = [
-  "Baby, happy 12th month to us. One year since we turned our “I like you” into “I love you,” and I’m the luckiest and most blessed person for having you.",
+  "Baby, happy 12 months to us. One year since we turned our “I like you” into “I love you,” and I’m the luckiest and most blessed person for having you.",
   "I know I’m not always the easiest person to love, and I’m really sorry for the times I hurt you, pressured you, or asked for too much.",
   "Baby, please know that I’m trying my best to love you, understand you, and treat you the way you deserve, and I’m trying to give you everything I can, everything that I’m capable of giving, because you deserve so much more.",
   "When I tell you the things that bother me, it’s never because I want to fight with you. I just don’t want to keep things inside until they become something that makes us lose each other. And I hope you’ll always feel safe enough to tell me the things that bother you too.",
